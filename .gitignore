@@ -1,0 +1,40 @@
+# === BUILD OUTPUT ===
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+*.log
+*.out
+
+# === BUILD FOLDERS ===
+build/
+Debug/
+Release/
+x64/
+x86/
+*.ipch
+
+# === VISUAL STUDIO FILES ===
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.ncb
+*.cache
+
+# === EDITOR CONFIGS ===
+.vscode/
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+
+# === BACKUP / TEMP FILES ===
+*.swp
+*~
+*.bak
+*.tmp
